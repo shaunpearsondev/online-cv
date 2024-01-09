@@ -5,9 +5,9 @@ layout: default
 
 {% include career-profile.html %}
 
-<!--{% unless site.data.data.sidebar.education %}-->
-<!--  {% include education.html %}-->
-<!--{% endunless %}-->
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
 
 {% include experiences.html %}
 
@@ -17,7 +17,7 @@ layout: default
 
 {% include oss-contributions.html %}
 
-<!--{% include publications.html %}-->
+{% include publications.html %}
 
 {% include skills.html %}
 
