@@ -3,162 +3,177 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-#    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  position: right # position of the sidebar : left or right
+  #    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
+  
+  # Profile information
+  name: Shaun Pearson
+  tagline: Azure Architect
+  avatar: profile-circle.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  
+  # Sidebar links
+  email: shaun@bigwhitesolutions.com
+  phone: 07827 019117
+  timezone: United Kingdom/GMT
+  website: bigwhitesolutions.com #do not add http://
+  linkedin: shaunpearsonbws
+  github: shaunpearsondev
+  #    pdf: http://www.africau.edu/images/default/sample.pdf
+  
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Native
+  
+  interests:
+    title: Interests
+    info:
+      - item: Snowboarding
 
-    # Profile information
-    name: Shaun Pearson
-    tagline: Azure Architect
-    avatar: profile-circle.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+      - item: Boardgames
 
-    # Sidebar links
-    email: shaun@bigwhitesolutions.com
-    phone: 07827 019117
-    timezone: United Kingdom/GMT
-    website: bigwhitesolutions.com #do not add http://
-    linkedin: shaunpearsonbws
-    github: shaunpearsondev
-#    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-    interests:
-      title: Interests
-      info:
-        - item: Snowboarding
-          link:
-
-        - item: Boardgames
-          link:
-
-        - item: Parenting
-          link:
+      - item: Parenting
 
 career-profile:
-    title: Career Profile
-    summary: |
-      TBD
-      
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-         TBD
-
-experiences:
-    title: Experiences
-    info:
-      - role: Azure Architect - Contractor
-        time: 2022 - Present
-        company: Big White Solutions
-        details: |
-          TBD
-      - role: Solutions Architect
-        time: 2012 - 2022
-        company: Fiscal Technologies
-        details: |
-          TBD
-      - role: IT Manager
-        time: 2008 - 2012
-        company: Koios Group
-        details: |
-          TBD
-
-certifications:
-      title: Certifications
-      list:
-        - name: Implement security through a pipeline using Azure DevOps
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 6E169D948A6304B6
-          credentialurl: https://learn.microsoft.com/api/credentials/share/en-gb/ShaunPearson-0775/6E169D948A6304B6?sharingId=A4185E400D18ED47
-          credentialname: Implement security through a pipeline using Azure DevOps
-          details: |
-            Configure secure access to pipeline resources
-            Configure and validate permissions
-            Configure a project and repository structure to support secure pipelines
-            Extend a pipeline to use multiple templates
-            Manage identity for projects, pipelines, and agents
+  title: Career Profile
+  summary: |
+    Results-driven Software Architect with over 15 years experience in the software industry, with the last 6 years being focused on migrating and creating solutions in Azure.
+    Turns business problems into high quality technical specifications by talking to the end users to fully understand requirements. 
+    Has security in mind at all times having worked in both the defence and fintech spaces.
+    Strong leader and team player believing a collaborative environment leads to project success. 
 
 projects:
-    title: Projects
-    intro: >
-      Since becoming a contractor these are the types of projects I have helped deliver
-    assignments:
-      - title: Development Reviews
-        link: "#hook"
-        tagline: "TBD"
+  title: Key Skills
+  intro: >
+    Capabilities and expertise as a Software Architect 
+  assignments:
+    - title: Secure Development Reviews
+      tagline: |
+        With extensive experience in security a thorougher review of code, team behaviours, deployment practises and hosting environments is conducted with the outcome being easy to understand documentation for both management and engineers
 
-      - title: Architecture Designs
-        link: "#"
-        tagline: "TBD"
+    - title: Architecture Designs
+      tagline: | 
+        Having migrated and created multiple solutions in azure ensures the right tools are chosen for the job, leading to secure, maintainable and scalable solutions that will lead to happy end users. 
+        Experience of both cloud services and container based approaches.
+    
+    - title: Technical Leadership
+      tagline: |
+        Proven ability to lead teams to a better way of working using mentoring, team upskilling and agile techniques to increase throughput and visibility of delivered value.    
 
-      - title: Full Stack Developer
-        link: "#"
-        tagline: "TBD"
+    - title: Devops Engineer
+      tagline: |
+        With experience in both IT and Development Devops has been a core part of any deliverables. 
+        Making sure that deployments are frictionless, repeatable and instrumented using IAC (Bicep or Terraform), Azure Pipelines and OpenTelemetry allows development teams to focus to code and the business to get insights into usage of the platform.         
+        
+    - title: Full Stack Developer
+      tagline: |
+        Ability to modernise codebases and deliver high quality features using bicep, dotnet, react and SQL. A focus on testable code ensures high quality code. 
+      
+experiences:
+  title: Experiences
+  info:
+    - role: Azure Architect - Contractor
+      time: 2021 - Present
+      company: Big White Solutions
+      details: |
+        - Self owned business that delivers high quality projects for a wide range of customers
+        
+    - role: Solutions Architect
+      time: 2012 - 2022
+      company: FISCAL Technologies
+      details: |
+        - Led the architecture design of FISCAL's next generation platform
+        - Managed a team of Software and Dev-Ops engineers
+        - Part of the core team that transitioned to an agile way of working
+        - Delivered bi-weekly meetings to the business to showcase new features and changes they should be aware of 
+        
+    - role: Software Developer
+      time: 2014 - 2017
+      company: FISCAL Technologies
+      details: |
+        - Enhanced the companies financial software APForensics which protected organisational spend
+        - Migrated the solution from Webforms to MVC
+        - Continued to enhance the software to be more cost effective in a cloud hosted environment
+        
+    - role: IT Manager
+      time: 2012 - 2014
+      company: FISCAL Technologies
+      details: |
+        - Transformed the companies existing on premise software to one that could be hosted in the cloud
+        - Managed the on-premise estate, upgraded servers and migrated tools to the cloud where appropriate
+        - Enabled users to self serve applications and common operations
+        - Introduced the ability for staff to work remotely
+        - Supported staff with technical expertise when needed
+        
+    - role: IT Manager
+      time: 2008 - 2012
+      company: Koios Group
+      details: |
+        TBD
 
-      - title: Devops Engineer
-        link: "#"
-        tagline: "TBD"
+certifications:
+  title: Certifications
+  list:
+    - name: Implement security through a pipeline using Azure DevOps
+      start: 2023
+      organization: Microsoft
+      credentialid: 6E169D948A6304B6
+      credentialurl: https://learn.microsoft.com/api/credentials/share/en-gb/ShaunPearson-0775/6E169D948A6304B6?sharingId=A4185E400D18ED47
+      credentialname: 
+      details: |
+        - Configure secure access to pipeline resources
+        - Configure and validate permissions
+        - Configure a project and repository structure to support secure pipelines
+        - Extend a pipeline to use multiple templates
+        - Manage identity for projects, pipelines, and agents
 
 oss:
-    title: OSS Contributions
-    intro: >
-      TBD
-    contributions:
-      - title: Nukeeper 
-        link: "#"
-        tagline: "TBD"
+  title: OSS Contributions
+  intro: >
+    
+  contributions:
 
-      - title: Zip Captions
-        link: "#"
-        tagline: "TBD"
-
-publications:
-    title: Publications
-    intro: |
-      TBD
-    papers:
+    - title: Zip Captions
+      link: "https://zipcaptions.app/"
+      tagline: "Zip Captions provides an easy to use live captions experience which lives right inside your browser"
       
+    - title: Nukeeper
+      link: "https://github.com/NuKeeperDotNet/NuKeeper"
+      tagline: "Automagically update NuGet packages in all .NET projects."
+
+
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
+  
+  toolset:
+    - name: Azure Architecture
+      level: 98%
 
-    toolset:
-      - name: Azure Architecture
-        level: 98%
+    - name: Secure Coding
+      level: 98%
 
-      - name: Secure Coding
-        level: 98%
-        
-      - name: Azure Devops
-        level: 98%
+    - name: Azure Devops
+      level: 98%
 
-      - name: C#
-        level: 98%
+    - name: C#
+      level: 98%
 
-      - name: Typescript
-        level: 98%
+    - name: Typescript
+      level: 98%
 
-      - name: React
-        level: 98%
+    - name: React
+      level: 98%
 
-      - name: SQL
-        level: 98%
+    - name: SQL
+      level: 98%
 
-      - name: Terraform
-        level: 98%
+    - name: Terraform
+      level: 98%
 
-      - name: Bicep
-        level: 98%
+    - name: Bicep
+      level: 98%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
