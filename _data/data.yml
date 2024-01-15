@@ -21,55 +21,44 @@ sidebar:
   github: shaunpearsondev
   #    pdf: http://www.africau.edu/images/default/sample.pdf
   
-  languages:
-    title: Languages
-    info:
-      - idiom: English
-        level: Native
-  
-  interests:
-    title: Interests
-    info:
-      - item: Snowboarding
-
-      - item: Boardgames
-
-      - item: Parenting
-
 career-profile:
   title: Career Profile
   summary: |
-    Results-driven Software Architect with over 15 years experience in the software industry, with the last 6 years being focused on migrating and creating solutions in Azure.
-    Turns business problems into high quality technical specifications by talking to the end users to fully understand requirements. 
-    Has security in mind at all times having worked in both the defence and fintech spaces.
-    Strong leader and team player believing a collaborative environment leads to project success. 
+    Results-driven Software Architect with over 15 years of comprehensive experience in the software industry, specializing in Azure solutions for the past 6 years.
+    Proven track record of translating business challenges into high-quality technical specifications through direct engagement with end-users.
+    Adept at maintaining a security-centric approach, with a background spanning both the defense and fintech sectors.
+    Recognized as a strong leader and collaborative team player, committed to fostering an environment that drives project success.
 
 projects:
   title: Key Skills
   intro: >
     Capabilities and expertise as a Software Architect 
   assignments:
-    - title: Secure Development Reviews
-      tagline: |
-        With extensive experience in security a thorougher review of code, team behaviours, deployment practises and hosting environments is conducted with the outcome being easy to understand documentation for both management and engineers
 
     - title: Architecture Designs
-      tagline: | 
-        Having migrated and created multiple solutions in azure ensures the right tools are chosen for the job, leading to secure, maintainable and scalable solutions that will lead to happy end users. 
-        Experience of both cloud services and container based approaches.
+      tagline: |
+        - Proficient in migrating and creating solutions in Azure, employing the "Azure Well-Architected Framework" to select optimal tools.
+        - Extensive experience in cloud services and container-based approaches, ensuring the delivery of secure, maintainable, and scalable solutions.
+        
+    - title: Secure Development
+      tagline: |
+        - Identify and resolve security issues in code, team behaviours, deployment practises and hosting environments. 
+        - Ability to explain why security is important and deliver training on concepts such as OWASP and Defence in Depth
     
     - title: Technical Leadership
       tagline: |
-        Proven ability to lead teams to a better way of working using mentoring, team upskilling and agile techniques to increase throughput and visibility of delivered value.    
+        - Demonstrated ability to lead teams toward improved practices using mentoring, team upskilling, and agile techniques.
+        - Enhance throughput and visibility of delivered value through effective leadership and ability to present to any audience.
 
     - title: Devops Engineer
       tagline: |
-        With experience in both IT and Development Devops has been a core part of any deliverables. 
-        Making sure that deployments are frictionless, repeatable and instrumented using IAC (Bicep or Terraform), Azure Pipelines and OpenTelemetry allows development teams to focus to code and the business to get insights into usage of the platform.         
+        - Blend of IT and Development experience improves collaboration between these two teams delivers more efficient software. 
+        - Utilizes Scripting, Version Control, IAC, CI/CD and OpenTelemetry to automate artifact creation, infrastructure and software deployments.
         
     - title: Full Stack Developer
       tagline: |
-        Ability to modernise codebases and deliver high quality features using bicep, dotnet, react and SQL. A focus on testable code ensures high quality code. 
+        - Modernize codebases and deliver high-quality features using .NET, React, and SQL.
+        - Prioritize testable code for ensuring code quality.
       
 experiences:
   title: Experiences
@@ -78,40 +67,37 @@ experiences:
       time: 2021 - Present
       company: Big White Solutions
       details: |
-        - Self owned business that delivers high quality projects for a wide range of customers
+        - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
         
     - role: Solutions Architect
       time: 2012 - 2022
       company: FISCAL Technologies
       details: |
-        - Led the architecture design of FISCAL's next generation platform
-        - Managed a team of Software and Dev-Ops engineers
-        - Part of the core team that transitioned to an agile way of working
-        - Delivered bi-weekly meetings to the business to showcase new features and changes they should be aware of 
+        - Led architecture design for FISCAL’s next-generation platform
+        - Managed a team of Software and DevOps engineers, transitioning to an agile work methodology.
+        - Conducted bi-weekly business meetings to showcase new features and changes.
         
     - role: Software Developer
       time: 2014 - 2017
       company: FISCAL Technologies
       details: |
-        - Enhanced the companies financial software APForensics which protected organisational spend
-        - Migrated the solution from Webforms to MVC
-        - Continued to enhance the software to be more cost effective in a cloud hosted environment
+        - Enhanced APForensics, the company’s financial software, by migrating from Webforms to MVC.
+        - Achieved cost savings through improved service utilization and enhanced relationships.
         
     - role: IT Manager
       time: 2012 - 2014
       company: FISCAL Technologies
       details: |
-        - Transformed the companies existing on premise software to one that could be hosted in the cloud
-        - Managed the on-premise estate, upgraded servers and migrated tools to the cloud where appropriate
-        - Enabled users to self serve applications and common operations
-        - Introduced the ability for staff to work remotely
-        - Supported staff with technical expertise when needed
+        - Transformed on-premise software into a cloud-hosted solution.
+        - Managed on-premise estate, upgraded servers, and facilitated cloud migrations.
+        - Enabled remote work and introduced self-service applications.
         
     - role: IT Manager
       time: 2008 - 2012
       company: Koios Group
       details: |
-        TBD
+        - Managed on-premise estate, including infrastructure connected to the defense sector.
+        - Contributed to the delivery of a SharePoint environment for use within the defense sector.
 
 certifications:
   title: Certifications
@@ -154,26 +140,31 @@ skills:
 
     - name: Secure Coding
       level: 98%
-
+      
     - name: Azure Devops
       level: 98%
+    
+    - name: Technical Leadership
+      level: 95%
 
     - name: C#
-      level: 98%
-
-    - name: Typescript
-      level: 98%
-
-    - name: React
-      level: 98%
-
-    - name: SQL
-      level: 98%
-
-    - name: Terraform
-      level: 98%
+      level: 95%
 
     - name: Bicep
-      level: 98%
+      level: 95%
+    
+    - name: Typescript
+      level: 80%
+
+    - name: React
+      level: 80%
+
+    - name: SQL
+      level: 80%
+
+    - name: Terraform
+      level: 80%
+
+
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -19,7 +19,7 @@
     .sidebar-wrapper {
         position: static;
         float: right;
-        width: 40%;
+        width: 45%;
         -webkit-print-color-adjust: exact; 
     }
 
@@ -44,5 +44,9 @@
 
   a[href]:after {
     content: none !important;
+  }
+
+  .no-print {
+    display: none;
   }
 }
