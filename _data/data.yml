@@ -95,6 +95,7 @@ experiences:
     - role: IT Manager
       time: 2008 - 2012
       company: Koios Group
+      noprint: true
       details: |
         - Managed on-premise estate, including infrastructure connected to the defense sector.
         - Contributed to the delivery of a SharePoint environment for use within the defense sector.
