@@ -52,8 +52,8 @@ projects:
 
     - title: Devops Engineer
       tagline: |
-        - Blend of IT and Development experience improves collaboration between these two teams delivers more efficient software. 
-        - Utilizes Scripting, Version Control, IAC, CI/CD and OpenTelemetry to automate artifact creation, infrastructure and software deployments.
+        - Combining expertise in both IT and Development enhances collaboration between these teams, leading to the delivery of more streamlined and efficient software solutions.
+        - Leverages scripting, version control, Infrastructure as Code (IAC), and Continuous Integration/Continuous Deployment (CI/CD) methodologies to automate the creation of artifacts, as well as infrastructure and software deployments.
         
     - title: Full Stack Developer
       tagline: |
