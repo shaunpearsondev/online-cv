@@ -47,7 +47,7 @@ projects:
     
     - title: Technical Leadership
       tagline: |
-        - Demonstrated ability to lead teams toward improved practices using mentoring, team upskilling, and agile techniques.
+        - Demonstrates ability to lead teams toward improved practices using mentoring, team upskilling, and agile techniques.
         - Enhance throughput and visibility of delivered value through effective leadership and ability to present to any audience.
 
     - title: Devops Engineer
@@ -70,7 +70,7 @@ experiences:
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
         
     - role: Solutions Architect
-      time: 2012 - 2022
+      time: 2017 - 2022
       company: FISCAL Technologies
       details: |
         - Led architecture design for FISCAL’s next-generation platform
