@@ -8,26 +8,22 @@ sidebar:
   education: False # set to False if you want education in main section instead of in sidebar
   
   # Profile information
-  name: Shaun Pearson
-  tagline: Azure Architect
-  avatar: profile-circle.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Arsen Yakar Pearson
+  tagline: Product Management
   
   # Sidebar links
-  email: shaun@bigwhitesolutions.com
-  phone: 07591 964642
-  timezone: United Kingdom/GMT
-  website: bigwhitesolutions.com #do not add http://
-  linkedin: shaunpearsonbws
-  github: shaunpearsondev
+  email: arsenyakar@hotmail.com
+  phone: 
+  timezone: Reeading, UK
+  linkedin: arsenyakar
   #    pdf: http://www.africau.edu/images/default/sample.pdf
   
 career-profile:
   title: Career Profile
   summary: |
-    Results-driven Software Architect with over 15 years of comprehensive experience in the software industry, specializing in Azure solutions for the past 6 years.
-    Proven track record of translating business challenges into high-quality technical specifications through direct engagement with end-users.
-    Adept at maintaining a security-centric approach, with a background spanning both the defense and fintech sectors.
-    Recognized as a strong leader and collaborative team player, committed to fostering an environment that drives project success.
+    I have a clear, practical, and logical mind to problem solving. I rely on my interpersonal and analytical skills as I interact with my team, my customer, and my stakeholders.
+    I have spent majority of my career in financial services, company sizes ranging from start-ups to large enterprises where not only I delivered great products but also created and led agile product teams.
+    I am looking to take on strategy focused Product Manager role, after spending the past year training and coaching 200+ product owners as part of organisational digital transformation.
 
 projects:
   title: Key Skills
@@ -61,42 +57,13 @@ projects:
 experiences:
   title: Experiences
   info:
-    - role: Azure Architect - Contractor
+    - role: Principle Product Owner/Product Coach
       time: 2021 - Present
-      company: Big White Solutions
+      company: Discover
       details: |
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
         
-    - role: Solutions Architect
-      time: 2017 - 2022
-      company: FISCAL Technologies
-      details: |
-        - Led architecture design for FISCAL’s next-generation platform
-        - Managed a team of Software and DevOps engineers, transitioning to an agile work methodology.
-        - Conducted bi-weekly business meetings to showcase new features and changes.
-        
-    - role: Software Developer
-      time: 2014 - 2017
-      company: FISCAL Technologies
-      details: |
-        - Enhanced APForensics, the company’s financial software, by migrating from Webforms to MVC.
-        - Achieved cost savings through improved service utilization and enhanced relationships.
-        
-    - role: IT Manager
-      time: 2012 - 2014
-      company: FISCAL Technologies
-      details: |
-        - Transformed on-premise software into a cloud-hosted solution.
-        - Managed on-premise estate, upgraded servers, and facilitated cloud migrations.
-        - Enabled remote work and introduced self-service applications.
-        
-    - role: IT Manager
-      time: 2008 - 2012
-      company: Koios Group
-      noprint: true
-      details: |
-        - Managed on-premise estate, including infrastructure connected to the defense sector.
-        - Contributed to the delivery of a SharePoint environment for use within the defense sector.
+   
 
 certifications:
   title: Certifications
