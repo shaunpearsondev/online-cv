@@ -69,33 +69,12 @@ experiences:
 certifications:
   title: Education
   list:
-    - name: Implement security through a pipeline using Azure DevOps
-      start: 2023
-      organization: Microsoft
-      credentialid: 6E169D948A6304B6
-      credentialurl: https://learn.microsoft.com/api/credentials/share/en-gb/ShaunPearson-0775/6E169D948A6304B6?sharingId=A4185E400D18ED47
-      credentialname: 
-      details: |
-        - Configure secure access to pipeline resources
-        - Configure and validate permissions
-        - Configure a project and repository structure to support secure pipelines
-        - Extend a pipeline to use multiple templates
-        - Manage identity for projects, pipelines, and agents
-
-oss:
-  title: OSS Contributions
-  intro: >
-    
-  contributions:
-
-    - title: Zip Captions
-      link: "https://zipcaptions.app/"
-      tagline: "Zip Captions provides an easy to use live captions experience which lives right inside your browser"
-      
-    - title: Nukeeper
-      link: "https://github.com/NuKeeperDotNet/NuKeeper"
-      tagline: "Automagically update NuGet packages in all .NET projects."
-
+    - name: MSc International Business Management
+      start: 2011
+      organization: University of Surrey
+   - name: BA International Relations
+      start: 2009
+      organization: Ege Universitesi-Turkey
 
 
 skills:
