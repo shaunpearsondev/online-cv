@@ -30,27 +30,27 @@ projects:
   title: Key Skills
   assignments:
 
-    - title: Architecture Designs
+    - title: Customer Empathy
       tagline: |
         - Proficient in migrating and creating solutions in Azure, employing the "Azure Well-Architected Framework" to select optimal tools.
         - Extensive experience in cloud services and container-based approaches, ensuring the delivery of secure, maintainable, and scalable solutions.
         
-    - title: Secure Development
+    - title: Stakeholder Management
       tagline: |
         - Identify and resolve security issues in code, team behaviours, deployment practises and hosting environments. 
         - Ability to explain why security is important and deliver training on concepts such as OWASP and Defence in Depth
     
-    - title: Technical Leadership
+    - title: Product Strategy
       tagline: |
         - Demonstrates ability to lead teams toward improved practices using mentoring, team upskilling, and agile techniques.
         - Enhance throughput and visibility of delivered value through effective leadership and ability to present to any audience.
 
-    - title: Devops Engineer
+    - title: Agile Leadership
       tagline: |
         - Combining expertise in both IT and Development enhances collaboration between these teams, leading to the delivery of more streamlined and efficient software solutions.
         - Leverages scripting, version control, Infrastructure as Code (IAC), and Continuous Integration/Continuous Deployment (CI/CD) methodologies to automate the creation of artifacts, as well as infrastructure and software deployments.
         
-    - title: Full Stack Developer
+    - title: Business Analysis
       tagline: |
         - Modernize codebases and deliver high-quality features using .NET, React, and SQL.
         - Prioritize testable code for ensuring code quality.
@@ -67,7 +67,7 @@ experiences:
    
 
 certifications:
-  title: Certifications
+  title: Education
   list:
     - name: Implement security through a pipeline using Azure DevOps
       start: 2023
@@ -102,34 +102,22 @@ skills:
   title: Skills &amp; Proficiency
   
   toolset:
-    - name: Azure Architecture
+    - name: Agile Methodology
       level: 98%
 
-    - name: Secure Coding
+    - name: Customer Centricity
       level: 98%
       
-    - name: Azure Devops
+    - name: Stakeholder Management
       level: 98%
-    
-    - name: Technical Leadership
-      level: 95%
-
-    - name: C#
-      level: 95%
-
-    - name: Bicep
-      level: 95%
-    
-    - name: Typescript
+  
+    - name: Product Strategy
       level: 80%
 
-    - name: React
+    - name: People Leadership
       level: 80%
 
-    - name: SQL
-      level: 80%
-
-    - name: Terraform
+    - name: Design Thinking
       level: 80%
 
 
