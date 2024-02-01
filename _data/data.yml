@@ -27,10 +27,10 @@ career-profile:
   
 
 projects:
-  title: Key Skills
+  title: Key Achievements
   assignments:
 
-    - title: Customer Empathy
+    - title: 
       tagline: |
         - Proficient in migrating and creating solutions in Azure, employing the "Azure Well-Architected Framework" to select optimal tools.
         - Extensive experience in cloud services and container-based approaches, ensuring the delivery of secure, maintainable, and scalable solutions.
@@ -58,13 +58,13 @@ projects:
 experiences:
   title: Experiences
   info:
-    - role: Principle Product Owner/Product Coach
+    - role: Principle Product Owner - Product Coach
       time: 2022 - Present
       company: Discover
       details: |
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
         
-    - role: Product Owner
+    - role: Product Owner - Digital Payments
       time: 2019 - 2022
       company: Discover
       details: |
@@ -105,19 +105,22 @@ skills:
   
   toolset:
     - name: Agile Methodology
-      level: 98%
+      level: 95%
 
-    - name: Customer Centricity
-      level: 98%
+    - name: Customer Empathy
+      level: 95%
       
     - name: Stakeholder Management
-      level: 98%
-  
+      level: 90%
+      
+    - name: Business Analysis
+      level: 90%
+      
     - name: Product Strategy
-      level: 80%
+      level: 85%
 
     - name: People Leadership
-      level: 80%
+      level: 85%
 
     - name: Design Thinking
       level: 80%
