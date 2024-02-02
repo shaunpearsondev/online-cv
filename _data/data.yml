@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   #    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  education: true # set to False if you want education in main section instead of in sidebar
   
   # Profile information
   name: Arsen Yakar Pearson
@@ -108,19 +108,19 @@ skills:
       level: 95%
 
     - name: Customer Empathy
-      level: 95%
+      level: 93%
       
     - name: Stakeholder Management
       level: 90%
       
     - name: Business Analysis
-      level: 90%
+      level: 88%
       
     - name: Product Strategy
       level: 85%
 
     - name: People Leadership
-      level: 85%
+      level: 83%
 
     - name: Design Thinking
       level: 80%
