@@ -36,20 +36,18 @@ projects:
     
     - title: Cross Functional Product Team
       tagline: |
-        Built a cross functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. Succesfully created a cross functional team, integrating with software delivery teams, bringing a holistic approach to product development life cycle. Doing so, transformed existing waterfall release process (6+months code complete to market release to be in-line with CI/CD) to continued delivery at the end of the sprint
-    
+        - Built a cross functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. 
+        - Succesfully created a cross functional team, integrating with software delivery teams, bringing a holistic approach to product development life cycle. 
+        - Improved existing waterfall release process (6+months code complete to market release to be in-line with CI/CD) to continued delivery at the end of each iteration.
+   
     - title: Enterprise-wide PO Coaching
       tagline: |
-        Driver Discover's Transformation as part of Discover’s transformation from project to product mindset, with a substantial emphasis on customer centricity. I deliver these courses that include defining product, personas, strategy, roadmaps, and user story mapping. I was offered this role as a promotion, based on my contribution to Discovers Transformation.
+        - Coached 200+ Product Owners as part of Discover's transformation from project to product mindset, with a substantial emphasis on customer centricity.
     
-    - title: Waterfall to Continues Integration
-      tagline: |
-      
         
     - title: Modernization and Replatforming
       tagline: |
-        - Modernize codebases and deliver high-quality features using .NET, React, and SQL.
-        - Prioritize testable code for ensuring code quality.
+        - Led the pilot project of platform modernization for a subset of the network. This included controlled exit from Scaled Agile Framework and return to core agility.
       
 experiences:
   title: Experiences
