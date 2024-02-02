@@ -35,8 +35,7 @@ projects:
     
     - title: Cross Functional Product Team
       tagline: |
-        Built a cross functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. 
-       Succesfully created a cross functional team, integrating with software delivery teams, bringing a holistic approach to product development life cycle. Doing so, transformed existing waterfall release process (6+months code complete to market release to be in-line with CI/CD) to continued delivery at the end of the sprint
+        Built a cross functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. Succesfully created a cross functional team, integrating with software delivery teams, bringing a holistic approach to product development life cycle. Doing so, transformed existing waterfall release process (6+months code complete to market release to be in-line with CI/CD) to continued delivery at the end of the sprint
     
     - title: Enterprise-wide PO Coaching
       tagline: |
@@ -44,7 +43,7 @@ projects:
     
     - title: Waterfall to Continues Integration
       tagline: |
-        - 
+      
         
     - title: Modernization and Replatforming
       tagline: |
