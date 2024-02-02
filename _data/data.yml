@@ -22,32 +22,31 @@ career-profile:
   title: Career Profile
   summary: |
    Customer centric product manager with 12 years of experience delivering software products within financial services industry. Profficient at translating complex business 
-   problems into actionable product deliverables by leveraging analytical and interpersonal skills. Proven track record of advocating agile methodology and driving change at organisational level. Recognized as a strong leader and collaborative team player, committed to fostering an environment that drives project success. Proven track record of 
-  
+   problems into actionable product deliverables by leveraging analytical and interpersonal skills. Proven track record of advocating agile methodology and driving change at organisational level. Recognized as a strong leader and collaborative team player, committed to fostering an environment that drives project success.
   
 
 projects:
   title: Key Achievements
   assignments:
-
-    - title: Enterprise-wide PO Coaching
-      tagline: |
-        Driver Discover's Transformation as part of Discover’s transformation from project to product mindset, with a substantial emphasis on customer centricity. I deliver these courses that include defining product, personas, strategy, roadmaps, and user story mapping. I was offered this role as a promotion, based on my contribution to Discovers Transformation.
         
     - title: New Product Launch
       tagline: |
-        - Implemented “lean startup” inspired way of working for the NextGen product development that took an idea from inception through to delivery. Focused on early validation of ideas with hypothesis led approach, targeting early adopters for itirative delivery.
+        Implemented “lean startup” inspired way of working for FISCAL's NextGen product development that took an idea from inception through to delivery. Focused on early validation of ideas with hypothesis led approach, targeting early adopters for itirative delivery.
     
     - title: Cross Functional Product Team
       tagline: |
-        - Built a cross functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. 
-        By integrating with software delivery teams, bringing a holistic approach to product development life cycle. This transformed existing waterfall release process (6+months code complete to market release) to be in-line with CI/CD by embedding cross functional teams into the product development lifecycle.
-
-    - title: Waterfall Go-to-Market to Continues Integration
+        Built a cross functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. 
+       Succesfully created a cross functional team, integrating with software delivery teams, bringing a holistic approach to product development life cycle. Doing so, transformed existing waterfall release process (6+months code complete to market release to be in-line with CI/CD) to continued delivery at the end of the sprint
+    
+    - title: Enterprise-wide PO Coaching
+      tagline: |
+        Driver Discover's Transformation as part of Discover’s transformation from project to product mindset, with a substantial emphasis on customer centricity. I deliver these courses that include defining product, personas, strategy, roadmaps, and user story mapping. I was offered this role as a promotion, based on my contribution to Discovers Transformation.
+    
+    - title: Waterfall to Continues Integration
       tagline: |
         - 
         
-    - title: 
+    - title: Modernization and Replatforming
       tagline: |
         - Modernize codebases and deliver high-quality features using .NET, React, and SQL.
         - Prioritize testable code for ensuring code quality.
