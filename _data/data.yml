@@ -16,7 +16,7 @@ sidebar:
   phone: 
   timezone: Reading, UK
   linkedin: arsenyakar
-  #    pdf: http://www.africau.edu/images/default/sample.pdf
+  #    pdf: http://www.Proficient.edu/images/default/sample.pdf
   
 career-profile:
   title: Career Profile
@@ -30,27 +30,24 @@ projects:
   title: Key Achievements
   assignments:
 
-    - title: 
+    - title: Enterprise-wide PO Coaching
       tagline: |
-        - Proficient in migrating and creating solutions in Azure, employing the "Azure Well-Architected Framework" to select optimal tools.
-        - Extensive experience in cloud services and container-based approaches, ensuring the delivery of secure, maintainable, and scalable solutions.
+        Driver Discover's Transformation as part of Discover’s transformation from project to product mindset, with a substantial emphasis on customer centricity. I deliver these courses that include defining product, personas, strategy, roadmaps, and user story mapping. I was offered this role as a promotion, based on my contribution to Discovers Transformation.
         
-    - title: Stakeholder Management
+    - title: New Product Launch
       tagline: |
-        - Identify and resolve security issues in code, team behaviours, deployment practises and hosting environments. 
-        - Ability to explain why security is important and deliver training on concepts such as OWASP and Defence in Depth
+        - Implemented “lean startup” inspired way of working for the NextGen product development that took an idea from inception through to delivery. Focused on early validation of ideas with hypothesis led approach, targeting early adopters for itirative delivery.
     
-    - title: Product Strategy
+    - title: Cross Functional Product Team
       tagline: |
-        - Demonstrates ability to lead teams toward improved practices using mentoring, team upskilling, and agile techniques.
-        - Enhance throughput and visibility of delivered value through effective leadership and ability to present to any audience.
+        - Built a cross functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. 
+        By integrating with software delivery teams, bringing a holistic approach to product development life cycle. This transformed existing waterfall release process (6+months code complete to market release) to be in-line with CI/CD by embedding cross functional teams into the product development lifecycle.
 
-    - title: Agile Leadership
+    - title: Waterfall Go-to-Market to Continues Integration
       tagline: |
-        - Combining expertise in both IT and Development enhances collaboration between these teams, leading to the delivery of more streamlined and efficient software solutions.
-        - Leverages scripting, version control, Infrastructure as Code (IAC), and Continuous Integration/Continuous Deployment (CI/CD) methodologies to automate the creation of artifacts, as well as infrastructure and software deployments.
+        - 
         
-    - title: Business Analysis
+    - title: 
       tagline: |
         - Modernize codebases and deliver high-quality features using .NET, React, and SQL.
         - Prioritize testable code for ensuring code quality.
@@ -105,16 +102,16 @@ skills:
   
   toolset:
     - name: Agile Methodology
-      level: 95%
+      level: 93%
 
     - name: Customer Empathy
-      level: 93%
+      level: 91%
       
     - name: Stakeholder Management
-      level: 90%
+      level: 89%
       
     - name: Business Analysis
-      level: 88%
+      level: 87%
       
     - name: Product Strategy
       level: 85%
@@ -123,7 +120,7 @@ skills:
       level: 83%
 
     - name: Design Thinking
-      level: 80%
+      level: 81%
 
 
 footer: >
