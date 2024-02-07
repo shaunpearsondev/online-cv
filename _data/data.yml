@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: shaun@bigwhitesolutions.com
   phone: 07591 964642
-  timezone: United Kingdom/GMT
+  timezone: Reading, UK/GMT
   website: bigwhitesolutions.com #do not add http://
   linkedin: shaunpearsonbws
   github: shaunpearsondev
@@ -31,8 +31,6 @@ career-profile:
 
 projects:
   title: Key Skills
-  intro: >
-    Capabilities and expertise as a Software Architect 
   assignments:
 
     - title: Architecture Designs
@@ -68,12 +66,17 @@ experiences:
       company: Big White Solutions
       details: |
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
-        
+        - Successfully led a project to modernize a software development team, resulting in accelerated feature delivery and enhanced visibility into their work.
+        - Successfully executed multiple projects to implement Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IAC), and DevSecOps practices for existing software, ensuring seamless and painless deployments.
+        - Collaborated with a client in the compliance sector to assess and enhance the security of their application, facilitating a smooth migration to the Azure platform.
+        - Partnered with a client in the recruiting industry to modernize, optimize performance, and migrate their flagship product to Azure.
+        - Spearheaded the architecture and implementation of a highly available vouchering platform for a client in the retail sector.
+        - Collaborated with a client in the healthcare domain to integrate multiple Software as a Service (SaaS) solutions, significantly improving workplace efficiency.
     - role: Solutions Architect
       time: 2017 - 2022
       company: FISCAL Technologies
       details: |
-        - Led architecture design for FISCAL’s next-generation platform
+        - Led architecture design for FISCAL’s next-generation platform.
         - Managed a team of Software and DevOps engineers, transitioning to an agile work methodology.
         - Conducted bi-weekly business meetings to showcase new features and changes.
         
