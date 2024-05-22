@@ -29,10 +29,7 @@ sidebar:
 
       - item: 🎲 Board Games
         link:
-
-      - item: 👪 Parenting
-        link:
-      
+     
 career-profile:
   title: Career Profile
   summary: |
@@ -168,7 +165,7 @@ skills:
     - name: Technical Leadership
       level: 95%
 
-    - name: C#
+    - name: .NET Core / C#
       level: 95%
 
     - name: Bicep
@@ -183,8 +180,6 @@ skills:
     - name: SQL
       level: 80%
 
-    - name: Terraform
-      level: 80%
 
 
 footer: >
