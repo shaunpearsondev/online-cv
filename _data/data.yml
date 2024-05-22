@@ -15,19 +15,32 @@ sidebar:
   # Sidebar links
   email: shaun@bigwhitesolutions.com
   phone: 07591 964642
-  timezone: Reading, UK/GMT
+  timezone: Reading, Berkshire UK/GMT
   website: bigwhitesolutions.com #do not add http://
   linkedin: shaunpearsonbws
   github: shaunpearsondev
   #    pdf: http://www.africau.edu/images/default/sample.pdf
-  
+
+  interests:
+    title: Interests
+    info:
+      - item: Meetup Groups
+        link:
+
+      - item: Board Games
+        link:
+
+      - item: Parenting
+        link:
+      
 career-profile:
   title: Career Profile
   summary: |
-    Results-driven Software Architect with over 15 years of comprehensive experience in the software industry, specializing in Azure solutions for the past 6 years.
+    Results-driven Software Architect with over 15 years of comprehensive experience in the software industry, specializing in Azure solutions for the past 7 years.
     Proven track record of translating business challenges into high-quality technical specifications through direct engagement with end-users.
     Adept at maintaining a security-centric approach, with a background spanning both the defense and fintech sectors.
     Recognized as a strong leader and collaborative team player, committed to fostering an environment that drives project success.
+    Co-Organiser of .NET Thames Valley meetup group, passionate about creating a community for sharing knowledge.
 
 projects:
   title: Key Skills
@@ -35,8 +48,8 @@ projects:
 
     - title: Architecture Designs
       tagline: |
-        - Proficient in migrating and creating solutions in Azure, employing the "Azure Well-Architected Framework" to select optimal tools.
-        - Extensive experience in cloud services and container-based approaches, ensuring the delivery of secure, maintainable, and scalable solutions.
+        - Proficient in migrating and creating solutions in Azure, employing frameworks such as the "Azure Well-Architected Framework" and Landing Zones to select optimal approaches.
+        - Extensive experience in cloud services and container-based approaches, ensuring the delivery of secure, maintainable, and scalable solutions.        
         
     - title: Secure Development
       tagline: |
@@ -62,33 +75,33 @@ experiences:
   title: Experiences
   info:
     - role: Azure Architect - Contractor
-      time: 2021 - Present
+      time: Sept 2021 - Present
       company: Big White Solutions
       details: |
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
-        - Successfully led a project to modernize a software development team, resulting in accelerated feature delivery and enhanced visibility into their work.
-        - Successfully executed multiple projects to implement Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IAC), and DevSecOps practices for existing software, ensuring seamless and painless deployments.
+        - Spearheaded the architecture and implementation of a highly available vouchering platform in Azure for one of the largest retail companies in South Africa.
+        - Successfully led a project to modernize a .Net software development team using Azure Devops, dotnet core and Azure, resulting in accelerated feature delivery and enhanced visibility into their work.
+        - Successfully executed multiple projects to implement Continuous Integration/Continuous Deployment (CI/CD) using Azure Devops/Github Actions, Infrastructure as Code (IAC) using Bicep/Terraform, and DevSecOps practices using Owasp, Synk, Dependabot and Qualys Tools for existing software, ensuring seamless and painless deployments.
         - Collaborated with a client in the compliance sector to assess and enhance the security of their application, facilitating a smooth migration to the Azure platform.
-        - Partnered with a client in the recruiting industry to modernize, optimize performance, and migrate their flagship product to Azure.
-        - Spearheaded the architecture and implementation of a highly available vouchering platform for a client in the retail sector.
+        - Partnered with a client in the recruiting industry to modernize, optimize performance, and migrate their flagship .Net product to Azure.
         - Collaborated with a client in the healthcare domain to integrate multiple Software as a Service (SaaS) solutions, significantly improving workplace efficiency.
     - role: Solutions Architect
-      time: 2017 - 2022
+      time: Mar 2017 - Jan 2022
       company: FISCAL Technologies
       details: |
-        - Led architecture design for FISCAL’s next-generation platform.
+        - Led architecture design for FISCAL’s next-generation platform using both cloud native and AKS products on Azure, .
         - Managed a team of Software and DevOps engineers, transitioning to an agile work methodology.
         - Conducted bi-weekly business meetings to showcase new features and changes.
         
     - role: Software Developer
-      time: 2014 - 2017
+      time: Aug 2014 - Mar 2017
       company: FISCAL Technologies
       details: |
         - Enhanced APForensics, the company’s financial software, by migrating from Webforms to MVC.
         - Achieved cost savings through improved service utilization and enhanced relationships.
         
     - role: IT Manager
-      time: 2012 - 2014
+      time: Jan 2012 - Sept 2014
       company: FISCAL Technologies
       details: |
         - Transformed on-premise software into a cloud-hosted solution.
@@ -96,7 +109,7 @@ experiences:
         - Enabled remote work and introduced self-service applications.
         
     - role: IT Manager
-      time: 2008 - 2012
+      time: July 2008 - Jan 2012
       company: Koios Group
       noprint: true
       details: |
@@ -120,10 +133,14 @@ certifications:
         - Manage identity for projects, pipelines, and agents
 
 oss:
-  title: OSS Contributions
+  title: Community Contributions
   intro: >
     
   contributions:
+
+    - title: .NET Thames Valley Meetup
+      link: "https://www.meetup.com/dot-net-thames-valley/"
+      tagline: "Co-Organiser - Provides a platform for the developer community to exchange ideas and keep up to date with the latest movements and shifts in software development."
 
     - title: Zip Captions
       link: "https://zipcaptions.app/"
