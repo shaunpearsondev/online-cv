@@ -24,13 +24,13 @@ sidebar:
   interests:
     title: Interests
     info:
-      - item: Meetup Groups
+      - item: 📰 Meetup Groups
         link:
 
-      - item: Board Games
+      - item: 🎲 Board Games
         link:
 
-      - item: Parenting
+      - item: 👪 Parenting
         link:
       
 career-profile:
@@ -48,7 +48,7 @@ projects:
 
     - title: Architecture Designs
       tagline: |
-        - Proficient in migrating and creating solutions in Azure, employing frameworks such as the "Azure Well-Architected Framework" and Landing Zones to select optimal approaches.
+        - Proficient in migrating and creating solutions in Azure, employing tools such as the Azure WAF, Microsoft CAF and Azure Landing Zones to select optimal approaches.
         - Extensive experience in cloud services and container-based approaches, ensuring the delivery of secure, maintainable, and scalable solutions.        
         
     - title: Secure Development
